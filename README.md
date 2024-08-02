@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @oOluki
-Mainly C, C++ and Python projects. Looking to just try to make cool stuff and have people have fun with my projects as well.
+- 👋 Hi, I’m @oOluki, I do
+mainly C, C++ and Python projects, looking to just try to make cool stuff and have people have fun with my projects as well.
 I'm no professional nor am I an expert or very experienced so be carefull before running some potentially unsafe code of mine.
 
 <!---
